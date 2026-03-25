@@ -81,6 +81,12 @@ Found citation: Crabtree 1912
 Found citation: Conan Doyle, Holmes, and Watson 1895
 Document saved to Your_Document_linked.docx
 ```
+## Development Process
+
+This tool was developed with AI assistance from Anthropic's Claude (Haiku 4.5 and Opus 4.6). 
+The code was built through an iterative process — I described the goal, tested 
+outputs on my document, identified edge cases and failures, and worked with 
+Claude to diagnose and fix them over multiple rounds.
 
 ## License
 

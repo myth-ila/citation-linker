@@ -15,6 +15,11 @@ If your Word document contains something like:
 This tool will turn `Murdoch and Ogden 1900` into a **clickable hyperlink** 
 that jumps to the full reference in your bibliography section.
 
+> **Note:** All citations and author names used in examples are fictitious. 
+> They are named after characters from the Canadian TV series 
+> [*Murdoch Mysteries*](https://en.wikipedia.org/wiki/Murdoch_Mysteries) 
+> and do not represent real academic publications.
+
 ## Features
 
 - Automatically extracts bibliography entries (author names + year)
